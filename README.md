@@ -1,2 +1,2 @@
 # LearnSpringFramework
-Spring framework learning branch
+Spring framework practice branch
